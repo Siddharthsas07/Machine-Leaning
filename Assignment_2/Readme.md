@@ -5,7 +5,7 @@ Instruction to run R and Java program is given below.
 
 -------------------------------------------------------------------------------------------
 FILES ATTACHED FOR R_Programming in folder "R"
-1.	Rscript named ñ ìshah_sas151830_command_line.Rî to run Rscript from command line
+1.	Rscript named ‚Äì ‚Äúshah_sas151830_command_line.R‚Äù to run Rscript from command line
 2.	Rplots_set1.pdf and Rplots_set2.pdf for plots generated
 3.	Report file named "R_Report.pdf" showing accuracy for the both datasets.
 
@@ -22,12 +22,12 @@ FILES ATTACHED FOR JAVA CODE in folder "JAVA"
 
 ------------------------------------------------------------------------------------
 Packages used in Rscripts:
-1.	Rpart ñ for rpart library
-2.	rpart.plot ñ for rpart.plot library
+1.	Rpart ‚Äì for rpart library
+2.	rpart.plot ‚Äì for rpart.plot library
 ------------------------------------------------------------------------------------
 Steps to run Rscripts from command line:
 FILES ARE PLACED IN FOLDER "R"
-1.	Place file named ñ ìshah_sas151830_command_line.Rî in your working directory. Also place training, test and validation files at the same location.
+1.	Place file named ‚Äì ‚Äúshah_sas151830_command_line.R‚Äù in your working directory. Also place training, test and validation files at the same location.
 2.	Command to run rscript from command line:
 -	rscript shah_sas151830_command_line.R training_set.csv validation_set.csv test_set.csv
 3.	The packages will take time to install. Wait for a while.
